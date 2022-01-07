@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: yndicalderon88@gmail.com
     phone: +598 94 036 702
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: #blog.webjeda.com #do not add http://
+    linkedin: yndiraic
     xing: #alandoe
     github: yndira
     telegram: # add your nickname without '@' sign
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
