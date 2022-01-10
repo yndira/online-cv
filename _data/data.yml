@@ -80,7 +80,7 @@ experiences:
           Java, Vaadin, Scala, JavaFx, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, Git, SVN
     - role: Full Stack Developer
       time: 2011 - 2016
-      company: Softel, Cuba
+      company: <a href="https://www.softel.cu/">Softel</a>, Cuba
       details: |
           - Development of Grails applications and plugins (Spring, Hibernate) for medical institution.
           - Development and consumption of SOAP web services.
@@ -88,7 +88,7 @@ experiences:
           - Design and development of unit and integration tests.
           <br><br>
           <b>Technologies:</b><br>
-          Java, Vaadin, Scala, JavaFx, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, Git, SVN
+          Groovy & Grails, MYSQL, Postgre, Apis REST/SOAP, JSON, HTML, CSS, Intellij IDEA, SVN, XP
 
 skills:
   title: Skills &amp; Proficiency
