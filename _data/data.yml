@@ -63,13 +63,12 @@ experiences:
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
       details: |
           <b>Main tasks:</b><br>
-          - Development of web services and applications for livestock management software.
-          - Development of destokp applications for livestock management software.
+          - Development of web/desktop applications and web services for livestock management software.
           - Maintenance, updating and creating of libraries for help the internal Scala Development.
           - Development of unit and integration tests.
           <br><br>
           <b>Technologies:</b><br>
-          Java, Vaadin, Scala, JavaFx, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, Git, SVN
+          Java, Vaadin, Scala, JavaFx, MYSQL, RESTful, JSON, Swing, Cucumber, Intellij IDEA, Scrum, Git, SVN
     - role: Full Stack Developer
       time: 2011 - 2016
       company: <a href="https://www.softel.cu/">Softel</a>, Cuba
