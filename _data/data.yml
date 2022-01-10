@@ -38,7 +38,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       Software engineer with experience in the technology industry. Always looking to improve my development skills and good programming practices. Design and implementation of mobile applications in Flutter. I like to work in a team and I am always open to taking on new challenges.
 
@@ -57,7 +57,7 @@ experiences:
         - Development of unit and integration test for mobile applications.
         <br><br>
         <b>Technologies:</b><br>
-        Flutter, Dart, Firebase, JSON, Intellij IDEA, Scrum, Git
+        - Flutter, Dart, Firebase, JSON, Intellij IDEA, Scrum, Git
     - role: Scala Developer
       time: 2017 - 2020
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
