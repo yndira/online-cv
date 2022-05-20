@@ -53,8 +53,9 @@ experiences:
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
       details: |
         <b>Main tasks:</b><br>
-        - Development mobile applications for livestock management software.
+        - Development mobile applications for Android and iOS.
         - Development of unit and integration test for mobile applications.
+        - REST API
         <br><br>
         <b>Technologies:</b><br>
         Flutter, Dart, BLOC Arquitecture, Firebase, JSON, Intellij IDEA, Scrum, Git
