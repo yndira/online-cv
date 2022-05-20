@@ -40,7 +40,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Software engineer with experience in the technology industry. Always looking to improve my development skills and good programming practices. Design and implementation of mobile applications in Flutter. I like to work in a team and I am always open to taking on new challenges.
+      Software engineer with experience in the technology industry. Always looking to improve my development skills and good programming practices. Design and implementation of mobile applications in Flutter, with responsability for developing high performance and high-quality  mobile applications for Android and iOS. I like to work in a team and I am always open to taking on new challenges.
 
 education:
   - degree: Engineer's Degree
@@ -57,7 +57,7 @@ experiences:
         - Development of unit and integration test for mobile applications.
         <br><br>
         <b>Technologies:</b><br>
-        Flutter, Dart, Firebase, JSON, Intellij IDEA, Scrum, Git
+        Flutter, Dart, BLOC Arquitecture, Firebase, JSON, Intellij IDEA, Scrum, Git
     - role: Full Stack Developer
       time: 2017 - 2020
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
