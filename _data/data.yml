@@ -22,7 +22,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Basic
+        level: Intermediate
 
     interests:
       - item: Developer (Dart, Scala, Java)
@@ -49,7 +49,18 @@ education:
 
 experiences:
     - role: Flutter Developer
-      time: 2020 - Present
+        time: 2022 - 2024
+        company: <a href="https://www.linkedin.com/company/dualbootpartners/">Dualboot Partners</a>, Montevideo, Uruguay
+        details: |
+          <b>Main tasks:</b><br>
+          - Development mobile applications for Android and iOS.
+          - Development of unit and integration test for mobile applications.
+          - REST API
+          <br><br>
+          <b>Technologies:</b><br>
+          Flutter, Dart, BLOC and Riverpod Arquitecture, Firebase, JSON, Scrum, Git
+    - role: Flutter Developer
+      time: 2020 - 2022
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
       details: |
         <b>Main tasks:</b><br>
@@ -85,25 +96,25 @@ skills:
   title: Skills &amp; Proficiency
   toolset:
     - name: Dart
-      level: 95%
+      level: 98%
 
     - name: Scala
-      level: 95%
+      level: 90%
 
     - name: Java EE/SE
       level: 95%
 
     - name: Flutter
-      level: 95%
+      level: 98%
 
     - name: Javafx
-      level: 95%
+      level: 90%
 
     - name: Vaadin
       level: 60%
 
     - name: DB (PosgreSQL, MySql, FireStore(Firebase))
-      level: 70%
+      level: 90%
 
 footer:
   CV Online | Yndira Inciarte Calderón
