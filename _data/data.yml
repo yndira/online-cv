@@ -49,16 +49,16 @@ education:
 
 experiences:
     - role: Flutter Developer
-        time: 2022 - 2024
-        company: <a href="https://www.linkedin.com/company/dualbootpartners/">Dualboot Partners</a>, Montevideo, Uruguay
-        details: |
-          <b>Main tasks:</b><br>
-          - Development mobile applications for Android and iOS.
-          - Development of unit and integration test for mobile applications.
-          - REST API
-          <br><br>
-          <b>Technologies:</b><br>
-          Flutter, Dart, BLOC and Riverpod Arquitecture, Firebase, JSON, Scrum, Git
+      time: 2022 - 2024
+      company: <a href="https://www.linkedin.com/company/dualbootpartners/">Dualboot Partners</a>, Montevideo, Uruguay
+      details: |
+        <b>Main tasks:</b><br>
+        - Development mobile applications for Android and iOS.
+        - Development of unit and integration test for mobile applications.
+        - REST API
+        <br><br>
+        <b>Technologies:</b><br>
+        Flutter, Dart, BLOC and Riverpod Arquitecture, Firebase, JSON, Scrum, Git
     - role: Flutter Developer
       time: 2020 - 2022
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
