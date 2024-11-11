@@ -55,10 +55,12 @@ experiences:
         <b>Main tasks:</b><br>
         - Development mobile applications for Android and iOS.
         - Development of unit and integration test for mobile applications.
-        - REST API
+        - REST/GraphQL API
+        - App Purchase
+        - App Store / Play Store deployment.
         <br><br>
         <b>Technologies:</b><br>
-        Flutter, Dart, BLOC and Riverpod Arquitecture, Firebase, JSON, Scrum, Git
+        Flutter, Dart, BLOC and Riverpod Arquitecture, Flutter Flow, Firebase, JSON, Scrum, Git, CI/CD, Stripe, Google Maps,
     - role: Flutter Developer
       time: 2020 - 2022
       company: <a href="https://bqn.com.uy/">BQN Custom Technology</a>, Montevideo, Uruguay
